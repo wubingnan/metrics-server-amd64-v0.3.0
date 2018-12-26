@@ -1,1 +1,1 @@
-# metrics-server-amd64-v0.3.0
+# metrics-server-amd64-v0.3.1
